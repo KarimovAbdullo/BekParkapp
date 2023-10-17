@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DMSans_18pt-Bold.ttf",
+      "sha1": "9420b53f2af12576f6b96354edf420ec24358087"
+    },
+    {
+      "path": "src/assets/fonts/DMSans_18pt-Light.ttf",
+      "sha1": "7d51a0699b11d34abbdba06af15ff5f8079b44ec"
+    },
+    {
+      "path": "src/assets/fonts/DMSans_18pt-Medium.ttf",
+      "sha1": "cff22a3ea15fdc373a0bc1d7a6437378d3f4b5ff"
+    },
+    {
+      "path": "src/assets/fonts/DMSans_18pt-Regular.ttf",
+      "sha1": "cbadb75c260d17b837793c16d77a4e5048e948e2"
+    },
+    {
+      "path": "src/assets/fonts/DMSans_18pt-SemiBold.ttf",
+      "sha1": "70ee8894067c427349b9df8cc0d8d5f91f421037"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Bold.ttf",
+      "sha1": "b2eecc99f77b6f69743a0c7bd802feb27d8b8325"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Light.ttf",
+      "sha1": "8370c37633442ed3a2420cbb89f562e140526f18"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Medium.ttf",
+      "sha1": "35ac1728c3835b0ca5b3b4c87340acb6ae9a6c47"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-Regular.ttf",
+      "sha1": "87895edbc9fc86c8e3a4e28950e9d2994cc68886"
+    },
+    {
+      "path": "src/assets/fonts/OpenSans_Condensed-SemiBold.ttf",
+      "sha1": "85dd5fa70ef2b796c5961e9d10aeba2a94c3b0a6"
+    }
+  ]
+}
